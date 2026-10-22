@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 @'
 # SAR_ISRO: SAR Image Captioning Research
+=======
+﻿# SAR_ISRO: SAR Image Captioning Research
+>>>>>>> 363deec (Add project README and Python requirements)
 
 ## Project Overview
 
@@ -158,4 +162,7 @@ This repository represents an evolving research prototype. Model training, evalu
 ## Acknowledgements
 
 This project is intended for academic research and learning. Cite the original satellite data providers, research papers, and software used in any resulting reports or publications.
+<<<<<<< HEAD
 '@ | Set-Content -Encoding utf8 README.md
+=======
+>>>>>>> 363deec (Add project README and Python requirements)

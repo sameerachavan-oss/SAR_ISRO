@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 
 @'
 numpy
+=======
+﻿numpy
+>>>>>>> 363deec (Add project README and Python requirements)
 pandas
 rasterio
 Pillow
 matplotlib
+<<<<<<< HEAD
 '@ | Set-Content -Encoding utf8 requirements.txt
+=======
+>>>>>>> 363deec (Add project README and Python requirements)
