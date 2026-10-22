@@ -1,0 +1,8 @@
+
+@'
+numpy
+pandas
+rasterio
+Pillow
+matplotlib
+'@ | Set-Content -Encoding utf8 requirements.txt
